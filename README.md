@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on [Mentra's](https://www.mentra.me/) Job Search Platform 🧑🏽‍💼👩🏽‍🔧👩🏽‍🚀  & building stocastic optimization engines for the supply chain industry [Optimal Dynamics](https://www.optimaldynamics.com/) 🛻 
+- 🔭 I’m currently working on [Mentra's](https://www.mentra.me/) Job Search Platform 🧑🏽‍💼👩🏽‍🔧👩🏽‍🚀  & building stocastic optimization engines for the supply chain industry @ [Optimal Dynamics](https://www.optimaldynamics.com/) 🛻 
 - 🌱 I’m currently learning Java, C++ , high-performance computing, distributed systems (zookeeper), rendering/animation pipelines, and stocastic optimization
 - 👯 I’m looking to collaborate on optimization or scientific computing projects
 - 🚫 I despise working in javascript and frontend tech
